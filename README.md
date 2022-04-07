@@ -14,10 +14,10 @@ And you can access roost-controlplane:30080 (GET)
 But this is just the Ballot API
 
 =======
-POST request can also be accessed at the same end-point...
+POST request can also be accessed at the same end-point
 
 ====
-Run both microservices and you have a full-fledged voting app
+Run both microservices and you have a full-fledged voting application
 
 
 ## Service dependency test suite
