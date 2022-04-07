@@ -17,7 +17,7 @@ But this is just the Ballot API
 POST request can also be accessed at the same end-point
 
 ====
-Run both microservices and you will have a full-fledged voting application
+Run both microservices and you will have a full-fledged voting application.
 
 
 ## Service dependency test suite
