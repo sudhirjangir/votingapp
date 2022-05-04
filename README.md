@@ -26,7 +26,7 @@ Build and deploy service-test-suite in roost cluster.
 Upload service-dependency.json from Observability -> Service Fitness in Roost Desktop
 On building ballot image from within Roost Desktop, service filness events can be seen from event viewer.
 
-## Use helm to deploy voting app
+## Use helm to deploy voting app...
   
   Right click on `helm-vote` and select `helm install` option to deploy 
   
