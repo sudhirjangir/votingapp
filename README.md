@@ -11,7 +11,7 @@ Apply ballot/ballot.yaml to ZKE
 
 And you can access roost-controlplane:30080 (GET)
 * For single-node cluster, try roost-worker instead of roost-controlplane
-But this is just the Ballot API
+But this is just the Ballot API.
 
 =======
 POST request can also be accessed at the same end-point
