@@ -30,7 +30,7 @@ On building ballot image from within Roost Desktop, service filness events can b
   
   Right click on `helm-vote` and select `helm install` option to deploy 
   
-## How to access voting app (if deployed with ingress)...
+## How to access voting app (if deployed with ingress)
   
   Open browser and access URL.
   1. Voting Portal : http://current-cluster.roost.io/voter
