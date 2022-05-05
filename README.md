@@ -32,6 +32,6 @@ On building ballot image from within Roost Desktop, service filness events can b
   
 ## How to access voting app (if deployed with ingress)...
   
-  Open browser and access URL.
+  Open browser and access URL
   1. Voting Portal : http://current-cluster.roost.io/voter
   2. Election Commission portal: http://current-cluster.roost.io/ec
